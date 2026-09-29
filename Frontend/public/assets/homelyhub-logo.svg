@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 72" role="img" aria-labelledby="title desc">
+  <title id="title">HomelyHub</title>
+  <desc id="desc">HomelyHub logo</desc>
+  <path d="M8 34 34 12l26 22v28H43V46H25v16H8Z" fill="#f2b84b"/>
+  <path d="M4 35 34 8l30 27-5 5L34 17 9 40Z" fill="#d8932f"/>
+  <text x="78" y="48" fill="#173f5f" font-family="Arial, sans-serif" font-size="30" font-weight="700">HomelyHub</text>
+</svg>
